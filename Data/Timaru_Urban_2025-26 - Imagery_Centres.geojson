@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "name": "Timaru_Urban_2025-26 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM",
+                "Proj_Name": "Timaru Urban Imagery 7.5cm",
+                "Survey_Typ": "Imagery",
+                "OrthoGSD_m": "7.5cm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.233114716273178,
+                    -44.294143720628576
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "name": "Mackenzie_Urban_2025-26 - Imagery_Centres",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Project": "PGRM",
+                "Proj_Name": "MacKenzie Urban Imagery 7.5cm",
+                "Survey_Typ": "Imagery",
+                "OrthoGSD_m": "7.5cm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.290412224756977,
+                    -44.181916647346206
+                ]
+            }
+        }
+    ]
+}
