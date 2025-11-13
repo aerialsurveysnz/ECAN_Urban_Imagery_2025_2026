@@ -11,7 +11,7 @@
         {
             "type": "Feature",
             "properties": {
-                "Project": "PGRM",
+                "Project": "PGRM3295",
                 "Proj_Name": "Timaru Urban Imagery 7.5cm",
                 "Survey_Typ": "Imagery",
                 "OrthoGSD_m": "7.5cm"

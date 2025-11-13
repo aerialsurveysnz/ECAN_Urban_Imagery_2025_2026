@@ -31,7 +31,7 @@
                 "path": "MultiPolygon?crs=wkt:PROJCRS[\"Projection_Transverse_Mercator_Datum_New_Zealand_Geodetic_Datum_2000_Ellipsoid_GRS80\",BASEGEOGCRS[\"NZGD2000\",DATUM[\"New Zealand Geodetic Datum 2000\",ELLIPSOID[\"GRS 1980\",6378137,298.257222101,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6167]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"Degree\",0.0174532925199433]]],CONVERSION[\"unnamed\",METHOD[\"Transverse Mercator\",ID[\"EPSG\",9807]],PARAMETER[\"Latitude of natural origin\",0,ANGLEUNIT[\"Degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",173,ANGLEUNIT[\"Degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"Scale factor at natural origin\",0.9996,SCALEUNIT[\"unity\",1],ID[\"EPSG\",8805]],PARAMETER[\"False easting\",1600000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",10000000,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]&field=LAYER:string(17,0)&field=MAP_NAME:string(56,0)&field=TILENAME:string(15,0)&field=MAPSHEET:string(4,0)&field=SCALE:string(3,0)&field=TILE:string(6,0)&field=GSDM:string(7,0)&field=YEAR:string(4,0)&field=FLOWN:string(10,0)&field=SUPPLIER:string(11,0)&field=SURVEY:string(21,0)&field=CLOSED:string(3,0)&field=BORDER_STY:string(5,0)&field=BORDER_COL:string(10,0)&field=BORDER_WID:integer(1,0)&field=FILL_STYLE:string(7,0)&uid={a1bb7f27-e67d-4316-9f6e-826fb49a8738}",
                 "Area": 0,
                 "Percentage_Coverage": 0.0,
-                "Project": "PGRM"
+                "Project": "PGRM3295"
             },
             "geometry": {
                 "type": "MultiPolygon",
